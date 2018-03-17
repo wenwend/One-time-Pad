@@ -1,6 +1,6 @@
 # One-time-Pad
 Definition:
-Primary reference on One-Time Pads (OTP)
+Primary reference on One-Time Pads (OTP):https://en.wikipedia.org/wiki/One-time_pad
 
 Plaintext is the term for the information that you wish to encrypt and protect. It is human readable.
 
